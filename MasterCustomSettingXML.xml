@@ -197,9 +197,9 @@
                 <CreatedDate>2016-02-29T01:50:13.000+0000</CreatedDate>
                 <LastModifiedBy.Id>0054B000000tyWDQAY</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Jetharam Choudhary</LastModifiedBy.Name>
-                <LastModifiedDate>2018-01-18T04:38:27.000+0000</LastModifiedDate>
+                <LastModifiedDate>2018-01-19T04:21:45.000+0000</LastModifiedDate>
                 <APTS_Credit_Memo_Current_Sequence__c>156</APTS_Credit_Memo_Current_Sequence__c>
-                <APTS_Current_Sequence__c>5280</APTS_Current_Sequence__c>
+                <APTS_Current_Sequence__c>5282</APTS_Current_Sequence__c>
                 <APTS_Negative_Identifier__c>2</APTS_Negative_Identifier__c>
                 <APTS_NoOfDigit__c>10</APTS_NoOfDigit__c>
                 <Company_Code__c>0500</Company_Code__c>
@@ -213,7 +213,7 @@
                 <CreatedDate>2016-02-29T01:50:13.000+0000</CreatedDate>
                 <LastModifiedBy.Id>0054B000000tyWDQAY</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Jetharam Choudhary</LastModifiedBy.Name>
-                <LastModifiedDate>2018-01-18T04:38:27.000+0000</LastModifiedDate>
+                <LastModifiedDate>2018-01-19T04:21:45.000+0000</LastModifiedDate>
                 <APTS_Credit_Memo_Current_Sequence__c>3</APTS_Credit_Memo_Current_Sequence__c>
                 <APTS_Negative_Identifier__c>2</APTS_Negative_Identifier__c>
                 <APTS_NoOfDigit__c>10</APTS_NoOfDigit__c>
@@ -562,12 +562,12 @@
                 <CreatedBy.Id>005a000000BOhD6AAL</CreatedBy.Id>
                 <CreatedBy.Name>QTC Administrator</CreatedBy.Name>
                 <CreatedDate>2016-02-29T01:40:48.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B0000017poGQAQ</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Kushal Bhalodiya</LastModifiedBy.Name>
-                <LastModifiedDate>2018-01-18T10:11:38.000+0000</LastModifiedDate>
+                <LastModifiedBy.Id>0054B000001Kpe2QAC</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Bhargav Esotiya</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T11:05:14.000+0000</LastModifiedDate>
                 <Internal_Subscriber_No__c>700005001</Internal_Subscriber_No__c>
-                <Reference_ID__c>9763</Reference_ID__c>
-                <Subscriber_No__c>500103924</Subscriber_No__c>
+                <Reference_ID__c>9766</Reference_ID__c>
+                <Subscriber_No__c>500103927</Subscriber_No__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Billing__BillingSystemProperties__c">
                 <Name>System Properties</Name>
@@ -683,13 +683,14 @@
                 <CreatedBy.Id>005a000000BOhD6AAL</CreatedBy.Id>
                 <CreatedBy.Name>QTC Administrator</CreatedBy.Name>
                 <CreatedDate>2015-04-11T12:30:11.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B0000017D9UQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Aditya Chaudhary</LastModifiedBy.Name>
-                <LastModifiedDate>2018-01-17T10:09:19.000+0000</LastModifiedDate>
+                <LastModifiedBy.Id>0054B000001JwlIQAS</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sohail Arif</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T08:17:12.000+0000</LastModifiedDate>
                 <Apttus_Config2__ActionsColumnPosition__c>Left</Apttus_Config2__ActionsColumnPosition__c>
                 <Apttus_Config2__AutoFinalizeOnCartApproval__c>true</Apttus_Config2__AutoFinalizeOnCartApproval__c>
                 <Apttus_Config2__BypassSharing__c>true</Apttus_Config2__BypassSharing__c>
                 <Apttus_Config2__CSSOverride__c>Apttus_DnBOverrideCSS</Apttus_Config2__CSSOverride__c>
+                <Apttus_Config2__CascadeSharedAttributeUpdates__c>true</Apttus_Config2__CascadeSharedAttributeUpdates__c>
                 <Apttus_Config2__CurrencyFieldPrecision__c>5</Apttus_Config2__CurrencyFieldPrecision__c>
                 <Apttus_Config2__CustomPricingFields__c>Apttus_Config2__PriceIncludedInBundle__c,Apttus_Config2__Quantity__c,Apttus_Config2__AutoRenew__c</Apttus_Config2__CustomPricingFields__c>
                 <Apttus_Config2__DefaultProductsPage__c>Apttus_Config2__SelectConfigProductsFilterView</Apttus_Config2__DefaultProductsPage__c>
@@ -879,7 +880,7 @@
                 <CreatedDate>2017-12-11T11:23:26.000+0000</CreatedDate>
                 <LastModifiedBy.Id>0054B0000017D9jQAE</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Kruti Shah</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-27T05:23:38.000+0000</LastModifiedDate>
+                <LastModifiedDate>2018-01-19T08:51:37.000+0000</LastModifiedDate>
                 <Apttus_Config2__CustomFieldNames2__c>Apttus_Config2__ConfigurationId__r.Apttus_Config2__OrderId__r.APTS_Billing_Schedule__c
 APTS_Previous_Start_Date__c</Apttus_Config2__CustomFieldNames2__c>
                 <Apttus_Config2__CustomFieldNames3__c>APTS_Billing_Plan__r.Apttus_Config2__BillingMethod__c
