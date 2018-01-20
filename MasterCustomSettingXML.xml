@@ -197,9 +197,9 @@
                 <CreatedDate>2016-02-29T01:50:13.000+0000</CreatedDate>
                 <LastModifiedBy.Id>0054B000000tyWDQAY</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Jetharam Choudhary</LastModifiedBy.Name>
-                <LastModifiedDate>2018-01-19T04:21:45.000+0000</LastModifiedDate>
+                <LastModifiedDate>2018-01-20T04:21:09.000+0000</LastModifiedDate>
                 <APTS_Credit_Memo_Current_Sequence__c>156</APTS_Credit_Memo_Current_Sequence__c>
-                <APTS_Current_Sequence__c>5282</APTS_Current_Sequence__c>
+                <APTS_Current_Sequence__c>5286</APTS_Current_Sequence__c>
                 <APTS_Negative_Identifier__c>2</APTS_Negative_Identifier__c>
                 <APTS_NoOfDigit__c>10</APTS_NoOfDigit__c>
                 <Company_Code__c>0500</Company_Code__c>
@@ -213,7 +213,7 @@
                 <CreatedDate>2016-02-29T01:50:13.000+0000</CreatedDate>
                 <LastModifiedBy.Id>0054B000000tyWDQAY</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Jetharam Choudhary</LastModifiedBy.Name>
-                <LastModifiedDate>2018-01-19T04:21:45.000+0000</LastModifiedDate>
+                <LastModifiedDate>2018-01-20T04:21:09.000+0000</LastModifiedDate>
                 <APTS_Credit_Memo_Current_Sequence__c>3</APTS_Credit_Memo_Current_Sequence__c>
                 <APTS_Negative_Identifier__c>2</APTS_Negative_Identifier__c>
                 <APTS_NoOfDigit__c>10</APTS_NoOfDigit__c>
@@ -6741,323 +6741,6 @@ Apttus_Config2__Description__c</Apttus_Config2__CustomFieldNames3__c>
                 <Apttus_Config2__Sequence__c>21</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 1 EvkhO6F5pjGD</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__ProductId__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__HeaderStyle__c>width:200px;</Apttus_Config2__HeaderStyle__c>
-                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 2 QUaL5YOzPL4y</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__ChargeType__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 3 MHHbnwqGXOPr</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__BasePrice__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
-                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
-                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 4 3Wspvh58LSOx</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__OptionPrice__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
-                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
-                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 5 wGCPvLICalrA</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__Quantity__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
-                <Apttus_Config2__StyleClass__c>aptQuantity</Apttus_Config2__StyleClass__c>
-                <Apttus_Config2__Style__c>text-align:right; width:60px;</Apttus_Config2__Style__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 6 L6Fl76iRwrAU</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__PriceUom__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 7 eZlJwXHBprI5</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__SellingTerm__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
-                <Apttus_Config2__StyleClass__c>aptQuantity</Apttus_Config2__StyleClass__c>
-                <Apttus_Config2__Style__c>text-align:right; width:60px;</Apttus_Config2__Style__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 8 bsQBT81gFqhe</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__SellingFrequency__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 9 qKfEWZ1YF2cU</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__ExtendedPrice__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>9</Apttus_Config2__Sequence__c>
-                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
-                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 10 npvLqC4uhJ72</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentType__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>10</Apttus_Config2__Sequence__c>
-                <Apttus_Config2__StyleClass__c>aptAdjustmentType</Apttus_Config2__StyleClass__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 11 wdEWBi1HA6Oc</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentAmount__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>11</Apttus_Config2__Sequence__c>
-                <Apttus_Config2__StyleClass__c>aptAdjustment</Apttus_Config2__StyleClass__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 12 mlY3DPc9lTPh</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustedPrice__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>12</Apttus_Config2__Sequence__c>
-                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
-                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 13 JqbLFAXDMnDw</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__NetPrice__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>13</Apttus_Config2__Sequence__c>
-                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
-                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 14 gQVnHXBnTiXO</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__DeltaPrice__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>14</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 15 OEK5yQMZh2VD</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__NetAdjustmentPercent__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>15</Apttus_Config2__Sequence__c>
-                <Apttus_Config2__StyleClass__c>aptPercentage</Apttus_Config2__StyleClass__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 16 nLTuAbREoN54</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__StartDate__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>16</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 17 gGnFSW5ZL149</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__EndDate__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>17</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 18 5QemimfkSNcx</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>APTS_WalletAssetLineItem__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>18</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 19 psr3vGIYvHBN</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__AutoRenew__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>19</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 20 QyfTnLFKgGBM</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__BillingFrequency__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>20</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 21 iIf3EsIg853E</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__PaymentTermId__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>21</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 22 noombs7XknNS</Name>
-                <CreatedBy.Id>0054B000001KGT4QAO</CreatedBy.Id>
-                <CreatedBy.Name>Juned Mehar</CreatedBy.Name>
-                <CreatedDate>2017-12-04T06:51:54.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0054B000001KGT4QAO</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Juned Mehar</LastModifiedBy.Name>
-                <LastModifiedDate>2017-12-04T06:51:54.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Year_Of_Contract__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>22</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
                 <Name>Cart Line Item 1 vCIJsYNm8U1y</Name>
                 <CreatedBy.Id>0054B000001LCYCQA4</CreatedBy.Id>
                 <CreatedBy.Name>Gopal Goswami</CreatedBy.Name>
@@ -7436,6 +7119,324 @@ Apttus_Config2__Description__c</Apttus_Config2__CustomFieldNames3__c>
                 <Apttus_Config2__Flow__c>MTUFlow</Apttus_Config2__Flow__c>
                 <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
                 <Apttus_Config2__Sequence__c>27</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 1 EJTuxvwCWAoS</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ProductId__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__HeaderStyle__c>width:200px;</Apttus_Config2__HeaderStyle__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 2 oOIoo8zXdvjA</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ChargeType__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 3 QfNGpNNZcHhT</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__BasePrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__HeaderStyle__c>width:125px;</Apttus_Config2__HeaderStyle__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 4 qJk1DWqRcAqj</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__OptionPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 5 jRvszuTmzhKS</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__Quantity__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptQuantity</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right; width:60px;</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 6 GqLB9VOkaBCB</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__PriceUom__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 7 D1srBrfnpiaX</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__SellingTerm__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptQuantity</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right; width:60px;</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 8 IzrVpAHGI5hz</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__SellingFrequency__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 9 b1QphhgEcA2P</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ExtendedPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>9</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 10 l5Q8QNSiqP9u</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentType__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>10</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptAdjustmentType</Apttus_Config2__StyleClass__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 11 11RQ2IKYQPGM</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentAmount__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>11</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptAdjustment</Apttus_Config2__StyleClass__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 12 IPa5x31PVIzi</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustedPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>12</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 13 KsRC4zE4YBfq</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__NetPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>13</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 14 Wn7hhcqNANqy</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__DeltaPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>14</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 15 VyXdt1VzUDNo</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__NetAdjustmentPercent__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>15</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptPercentage</Apttus_Config2__StyleClass__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 16 1wqpMoOsqdfg</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__StartDate__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>16</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 17 S7sUGhuSmRmE</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__EndDate__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>17</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 18 T4RksatKfyBj</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>APTS_WalletAssetLineItem__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>18</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 19 NvkzWU2rA5HJ</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AutoRenew__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>19</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 20 MJqgX6Cup59H</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__BillingFrequency__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>20</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 21 eNcL6gTm52ya</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__PaymentTermId__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>21</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 22 1whIT9p6vrd5</Name>
+                <CreatedBy.Id>0054B000001KpWIQA0</CreatedBy.Id>
+                <CreatedBy.Name>Ravi Panchal</CreatedBy.Name>
+                <CreatedDate>2018-01-19T22:33:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0054B000001KpWIQA0</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Ravi Panchal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-01-19T22:33:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Year_Of_Contract__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>ngFlow</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>22</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
                 <Name>Asset Line Item 1 rod9wWc3CKyF</Name>
